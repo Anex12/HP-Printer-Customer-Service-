@@ -4,7 +4,7 @@ Customer Service for HP Printers: Guaranteeing Smooth Printing Experiences
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: 
+.. image:: supportbutton.jpg
    :alt: HP Printer Customer Service
    :width: 350px
    :align: center
